@@ -99,6 +99,10 @@ a:hover {
   padding: 20px 30px;
   border-radius: 4px;
   color: rgb(255,255,255);
+  display: block;
+  width: fit-content;
+  margin: 15px auto;
+
 }
 
 img:hover {
